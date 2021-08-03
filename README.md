@@ -1,4 +1,4 @@
-# Bad-Bank---Styling-The-Bootstrap-Card-18-11
+
 
 # <h1><strong><em>Project Title:</em></strong> Bad-Bank---Styling-The-Bootstrap-Card-18-11</H1>
 <strong><em>Description of Project:</em></strong>The use of Bootstrap<br>
